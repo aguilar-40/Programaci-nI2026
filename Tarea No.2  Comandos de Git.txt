@@ -1,0 +1,29 @@
+1. ¿Qué es GIT?
+Es un sistema de control de versiones, como su nombre lo indica, es in sistema o programa que controla
+o administra las distintas versiones de un programa.
+
+2. ¿Cuáles son los comandos más importantes y para que sirven?
+
+Git init: Es una manera en la cual nosotros vamos a poder decirle a Git o a los sistemas operativos que vamos a crear un proyecto nuevo.
+**Git add <file>:**Es para poder pasar los archivos del working directory al staging área.
+Git status: Es para ver en que estado están nuestros archivos, si están en el working directory, si están en staging área, etc.
+Git commit: Es para pasar del staging área al repository. Es solo para crear un primer Snapchat como una primera foto de tu versión del código.
+Git push: Es pasar pasar a un repositorio remoto, por ejemplo; cuando tenemos un código y ya lo emos trabajado, lo vamos a subir a un servidor para                                        que pueda ser accedido por los desarrolladores que tiene permiso para modificar el código.
+Git pull: Es en caso de que estemos trabajando con múltiples desarrolladores, lo cual te trae los cambios que han hecho los otros desarrolladores.
+Git clone: Lo que hace es acerté una copia desde el servidor central donde esta tu código a tu computadora para que empieces a trabajar.
+
+3. ¿Cuál es la diferencia entre Git y Github?
+
+Git. Herramienta de control de versiones, permite gestionar cambios en el código de manera local y distribuida.
+GitHub. Plataforma web basada en Git, hospeda repositorios Git en la nube y añade funciones de colaboración.
+
+4. Enumere los comandos para subir cambios a un repositorio.
+
+git status. Muestra qué archivos han cambiado y cuáles están listos para subir.
+git add CnombreArchivo): Para un archivo específico.
+git add. : Para todos los cambios.
+git commit -m: Confirmar los cambios con un mensaje.
+git push origin nombreRama: Subir los cambios al repositorio remoto.
+
+5. ¿Qué es una branch  ?
+Una branch es como un “espacio paralelo” donde puedes hacer cambios sin alterar la rama principal, generalmente llamada main o master.
