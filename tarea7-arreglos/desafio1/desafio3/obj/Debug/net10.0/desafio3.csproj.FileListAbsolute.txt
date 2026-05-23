@@ -1,0 +1,14 @@
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\bin\Debug\net10.0\desafio3.exe
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\bin\Debug\net10.0\desafio3.deps.json
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\bin\Debug\net10.0\desafio3.runtimeconfig.json
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\bin\Debug\net10.0\desafio3.dll
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\bin\Debug\net10.0\desafio3.pdb
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.AssemblyInfo.cs
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.dll
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\refint\desafio3.dll
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.pdb
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\desafio3.genruntimeconfig.cache
+C:\Users\aylli\OneDrive\Documents\Programacion 1\ParaSubir\tarea7-arreglos\desafio1\desafio3\obj\Debug\net10.0\ref\desafio3.dll
