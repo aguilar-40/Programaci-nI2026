@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscuelaApp2026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f07a63ae7a64805be6975b9a5adc9217478a1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8c9b1a83918628bd6345db1efa66d86d9ef77a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscuelaApp2026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscuelaApp2026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
